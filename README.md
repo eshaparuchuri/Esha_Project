@@ -1,5 +1,3 @@
 # Esha_Project
 Final Year Project Submission,
-I am uploading only main code file here as my project is not a single Jupyter file, it is a whole folder which is done is Visual Studio Code(VSC). 
-You need all the connected working files for the main code to work, but I am unable to upload the whole folder here as it has larger MB, so I am uploading the other files in google drive.
-From the link below you can access the other files.
+I've uploaded the main code file here, but please note that my project consists of multiple interconnected files within a folder, which was developed using Visual Studio Code (VSC). To access all the necessary working files for the main code to function properly, you can find them in the following Google Drive link. Unfortunately, due to size constraints, I'm unable to upload the entire folder directly to this platform.
